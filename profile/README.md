@@ -4,7 +4,7 @@
 Useful resources:
 
 * [Current compiler implementation](https://github.com/tact-lang/tact)
-* [Discussions](https://github.com/tact-lang/docs/discussions)
+* [Discussions](https://github.com/orgs/tact-lang/discussions)
 
 <!--
 
