@@ -6,7 +6,7 @@
 
 - [✨ Getting Started with Tact-by-example](https://tact-by-example.org/)
 - [📝 Tact Documentation](https://github.com/tact-lang/tact-docs)
-- [🔥 Tact Template, the examples that good to start with](https://github.com/tact-lang/tact-template)
+- [🔥 Tact Template](https://github.com/tact-lang/tact-template)
 - [🚴🏼 Awesome Tact, the place collect all the community works](https://github.com/tact-lang/awesome-tact)
 
 ## Community
