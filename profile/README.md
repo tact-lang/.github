@@ -8,7 +8,7 @@
 - [📝 Tact Documentation](https://github.com/tact-lang/tact-docs)
 - [🔥 Tact Template](https://github.com/tact-lang/tact-template)
 - [👉 Visual Studio plug-in for Tact](https://github.com/tact-lang/tact-vscode)
-- [🚴🏼 Awesome Tact, the place collect all the community works](https://github.com/tact-lang/awesome-tact)
+- [🚴🏼 Awesome Tact, the place to collect all the community creations](https://github.com/tact-lang/awesome-tact)
 
 ## Community
 
