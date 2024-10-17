@@ -7,6 +7,7 @@
 - [✨ Getting Started with "Tact-by-example"](https://tact-by-example.org/)
 - [📝 Tact Documentation](https://github.com/tact-lang/tact-docs)
 - [🔥 Tact Template](https://github.com/tact-lang/tact-template)
+- [🕸 TON Web IDE](https://ide.ton.org)
 - [👉 Visual Studio plug-in for Tact](https://github.com/tact-lang/tact-vscode)
 - [🚴🏼 Awesome Tact, the place to collect all the community creations](https://github.com/tact-lang/awesome-tact)
 
