@@ -10,10 +10,9 @@
 - [🕸 TON Web IDE](https://ide.ton.org)
 - [👉 Visual Studio plug-in for Tact](https://github.com/tact-lang/tact-vscode)
 - [🚴🏼 Awesome Tact, the place to collect all the community creations](https://github.com/tact-lang/awesome-tact)
-- [🗞 Tact Kitchen: Telegram channel with the hottest and yummiest updates](https://t.me/tact_kitchen)
-
 
 ## Community
 
 - [✈️  Join the Telegram Group](https://t.me/tactlang)
+- [🗞 Tact Kitchen: Telegram channel with the hottest and yummiest updates](https://t.me/tact_kitchen)
 - [🐦 Follow us on Twitter](https://twitter.com/tact_language)
