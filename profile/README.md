@@ -1,6 +1,6 @@
 # Welcome to Tact Language
 
-**Tact** is a new programming language tailored for the TON blockchain, emphasizing both efficiency and simplicity.
+**Tact** is a new programming language tailored for the TON blockchain, emphasizing both efficiency and simplicity. Driven by [TON Studio](https://tonstudio.io).
 
 ## Official Resources
 
