@@ -5,7 +5,7 @@
 ## Official Resources
 
 - [✨ Getting Started with "Tact-by-example"](https://tact-by-example.org/)
-- [📝 Tact Documentation](https://github.com/tact-lang/tact-docs)
+- [📝 Tact Documentation](https://docs.tact-lang.org)
 - [🔥 Tact Template](https://github.com/tact-lang/tact-template)
 - [🕸 TON Web IDE](https://ide.ton.org)
 - [👉 Tact Language Server](https://github.com/tact-lang/tact-language-server)
