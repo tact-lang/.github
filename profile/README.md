@@ -8,7 +8,7 @@
 - [📝 Tact Documentation](https://docs.tact-lang.org)
 - [🔥 Tact Template](https://github.com/tact-lang/tact-template)
 - [🕸 TON Web IDE](https://ide.ton.org)
-- [👉 Tact Language Server](https://github.com/tact-lang/tact-language-server)
+- [👉 Tact Language Server and VS Code extension](https://github.com/tact-lang/tact-language-server)
 - [🚴🏼 Awesome Tact, the place to collect all the community creations](https://github.com/tact-lang/awesome-tact)
 
 ## Community
